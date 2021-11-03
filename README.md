@@ -1,11 +1,9 @@
-# TPL-Yu-WebForHoloLens2
+#  UDP-TCP-for-HoloLens-2
 
-This is a HoloLens2-ready template, with TCP and UDP web modules integrated, based on:
+This is a HoloLens2-MRTK-ready template, with TCP and UDP web modules integrated, based on:
  
-    ·Unity 2020.3.3f1(LTS) 
-    
-    ·OpenXR features
-    
+    ·Unity 2020.3.3f1(LTS)     
+    ·OpenXR features    
     ·Windows Mixed Reality Toolkit (MRTK) 2.7.2
     
    
