@@ -21,6 +21,8 @@ One finding is that the TCP connection reads too slowly, I don't know why. I wil
 Tips: you had better name the solution folder as "APP" when you build this project from Unity, because I have already add this name in the gitignore file.
 
 
+
+
 xxxhhhyxy
 
 03.11.2021
